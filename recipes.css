@@ -1,0 +1,131 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+body {
+  font-family: "Roboto", sans-serif;
+  text-align: center;
+}
+
+.color-section {
+  background-color:#FFE6E6;
+  color: #000;
+}
+
+.container-fluid {
+  padding: 3% 5% 5%;
+}
+
+.ellipse1 {
+  position: absolute;
+  transform: rotate(90deg);
+  max-width: 7em;
+  top: -20vh;
+  right: 55vh;
+}
+
+.navbar-brand {
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.1rem;
+  font-weight: bold;
+  font-weight: 100;
+}
+
+.title-h1 {
+  margin: 0% 3% 5% 0;
+  font-size: 2rem;
+  line-height: 0.5rem;
+  text-align: left;
+  letter-spacing: 0.1rem;
+  font-weight: 700;
+}
+
+.title-h2 {
+  text-align: left;
+  font-weight: 200;
+}
+
+.ellipse2 {
+  position: absolute;
+  max-width: 5.7em;
+  top: 3vh;
+  margin: 0%;
+  width: 50%;
+  position: absolute;
+  left: 0%;
+  padding-top: 9vh
+}
+
+.landing_lady {
+  margin: 25 rem;
+  width: 70%;
+  position: absolute;
+  right: 20%;
+}
+
+.white-section {
+  background-color: #fff;
+  color: #000;
+}
+
+.heading {
+  border-bottom: 2px solid #2e0a03;
+  font-size: 2em;
+  width: 30%;
+  font-weight: 500;
+}
+
+.heading-col {
+  background-color: #FFE6E6;
+  padding: 50px;
+  margin: 50px;
+  border-radius: 25px;
+  text-align: left;
+  position: relative;
+}
+
+.top_icon {
+  position: absolute;
+  right: 0;
+  top: 0;
+  transform: translate(20%, -40%);
+}
+
+.heading-col1 {
+  padding: 50px;
+  margin: 20px;
+  margin: 2rem 0 2rem 0;
+  border-radius: 25px;
+  text-align: left;
+}
+
+.ellipse3 {
+  margin: 0%;
+  position: absolute;
+  transform: rotate(180deg) translate(0, 70%);
+  right: 0;
+}
+
+.sneaky_tricks{
+  margin: 10 rem;
+  width: 100%;
+  position: absolute;
+  top: 30%;
+  right: 10%;
+}
+
+.black-section {
+  background-color:#263238 ;
+  color: white;
+  text-align: left;
+}
+
+.social-img {
+  max-width: 3vh;
+  margin: 0 1vh;
+}
